@@ -1,0 +1,22 @@
+{
+  "name": "weatherappproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"npm i",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-eng-eng/weather_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil-eng-eng/weather_app/issues"
+  },
+  "homepage": "https://github.com/sahil-eng-eng/weather_app#readme",
+  "keywords": [],
+  "description": ""
+}
